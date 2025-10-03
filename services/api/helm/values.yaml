@@ -1,0 +1,7 @@
+image:
+  repository: ""
+  tag: "latest"
+
+service:
+  type: ClusterIP
+  port: 80
